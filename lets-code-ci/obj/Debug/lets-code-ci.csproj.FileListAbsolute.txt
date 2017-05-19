@@ -1,0 +1,6 @@
+C:\Users\Shafer\Source\Repos\lets-code-ci-session-2\lets-code-ci\bin\Debug\lets-code-ci.exe.config
+C:\Users\Shafer\Source\Repos\lets-code-ci-session-2\lets-code-ci\bin\Debug\lets-code-ci.exe
+C:\Users\Shafer\Source\Repos\lets-code-ci-session-2\lets-code-ci\bin\Debug\lets-code-ci.pdb
+C:\Users\Shafer\Source\Repos\lets-code-ci-session-2\lets-code-ci\obj\Debug\lets-code-ci.csprojResolveAssemblyReference.cache
+C:\Users\Shafer\Source\Repos\lets-code-ci-session-2\lets-code-ci\obj\Debug\lets-code-ci.exe
+C:\Users\Shafer\Source\Repos\lets-code-ci-session-2\lets-code-ci\obj\Debug\lets-code-ci.pdb

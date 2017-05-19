@@ -1,14 +1,21 @@
 ﻿using System;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
+using Xunit;
 
 namespace lets_code_ci_tests
 {
-    [TestClass]
     public class UnitTest1
     {
-        [TestMethod]
-        public void TestMethod1()
+        [Fact]
+        public void PassingTest()
         {
+            
+            Assert.Equal(1, 1);
+        }
+
+        [Fact]
+        public void FailingTest()
+        {
+            Assert.Equal(1, 2);
         }
     }
 }
