@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace lets_code_ci
 {
-    public class Program
+    public class Program 
     {
         public static void Main(string[] args)
         {
